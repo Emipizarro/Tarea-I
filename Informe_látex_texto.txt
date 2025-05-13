@@ -16,6 +16,7 @@
     \caption{Algoritmo Eratóstenes}
     \label{fig:enter-label}
 \end{figure}
+Este Algoritmos lo aprendimos en clase, y luego tuvimos la oportunidad de implementarlo en uno de los sets de Introducción a la programación
 \newpage
 \section{Autor}
 \begin{figure}[h]
